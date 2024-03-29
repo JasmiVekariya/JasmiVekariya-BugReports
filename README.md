@@ -1,2 +1,2 @@
 # JasmiVekariya-BugReports
-This repository is for reporting bugs as mentioned in my assignment.
+This repository is for the assignment of Software Engineering Fundamental which includes the software bug identification and its reporting.
